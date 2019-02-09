@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 /**
  * Created by nikolay on 23.08.14.
+ * test changes 1
  */
 public class TerminalUI {
 
