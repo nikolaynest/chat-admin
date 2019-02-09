@@ -166,7 +166,7 @@ public class Server {
         public void run() {
             try {
                 boolean goFurther = true; /* emergency exit */
-                /** первым делом получаю имя нового "клиента" */
+                /** firstly getting name of the new "client" */
                 try {
                     goFurther = readClientName();
                 } catch (IOException e) {
