@@ -6,7 +6,6 @@ package nikochat.com.app;
 public abstract class AppConstants {
     public static final String MAX_USERS_ERROR = "#MAX_USERS#";
     public static final String REPEATED_NAME_ERROR = "#NAME_BUSY#";
-    public static final String REPEATED_NAME_MESSAGE = "Пользователь с таким именем уже существует. Выберите другое имя.";
     public static final String OK_REGISTERED = "#OK_REGISTERED#";
     public static final String SERVER_UNAVAILABLE_MESSAGE = "Сервер недоступен";
     public static final String DENIED = "#DENIED#";
