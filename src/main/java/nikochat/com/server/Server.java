@@ -182,7 +182,7 @@ public class Server {
                     addToHistory(invitation);
                     resendMessage(invitation);
 
-                    /** читаю из входящего потока сообщения */
+                    /** read messages from input stream */
                     while (true) {
                         String received = null;
                         try {
