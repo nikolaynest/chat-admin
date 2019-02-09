@@ -165,7 +165,7 @@ public class Server {
         @Override
         public void run() {
             try {
-                boolean goFurther = true; /*аварийный выход*/
+                boolean goFurther = true; /* emergency exit */
                 /** первым делом получаю имя нового "клиента" */
                 try {
                     goFurther = readClientName();
