@@ -8,6 +8,7 @@ import java.util.Scanner;
  * Created by nikolay on 23.08.14.
  * test changes 1
  * test changes 2
+ * test changes 3
  */
 public class TerminalUI {
 
